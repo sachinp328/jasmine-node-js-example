@@ -1,4 +1,5 @@
 ---
+-
 framework: jasmine
 preMerge:
   pattern:
