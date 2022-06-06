@@ -6,7 +6,8 @@ postMerge:
   pattern:
     - "spec/**/*.js"
 preRun: 
-  command: 
+  command:
+    - npm install
     - npm ci    
 postRun:
   command: 
